@@ -9,4 +9,4 @@ Specifically this repository contains two files:
 * ISWC_DOIs_for_Nature_Navigator.csv containing just DOIs
 
 
-In the last file (ISWC_DOIs_for_Nature_Navigator), we removed [https://doi.org/10.1007/978-3-031-77847-6_19](10.1007/978-3-031-77847-6_19) because it is a correction paper about the 2024 volume, and it was published in 2025, resulting in a slightly distorted analysis.
+In the last file (ISWC_DOIs_for_Nature_Navigator), we removed [https://doi.org/10.1007/978-3-031-77847-6_19](https://doi.org/10.1007/978-3-031-77847-6_19) because it is a correction paper about the 2024 volume, and it was published in 2025, resulting in a slightly distorted analysis.
